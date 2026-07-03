@@ -1,1 +1,1 @@
-fanction showmeaning(){document.getElementById().textContent ="人やものを窓から投げ捨てること";
+fanction showmeaning(){document.getElementById(defenestration).textContent ="人やものを窓から投げ捨てること";
