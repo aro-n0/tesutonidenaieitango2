@@ -1,5 +1,8 @@
 console.log("ここ読み込まれてる");
 
 function showMeaning() {
-    document.getElementById("word").classList.toggle("hidden");
+    const word = document.getElementById("word");
+
+    word.textContent = "人やものを窓から投げ捨てること";
+    word.classList.toggle("hidden");
 }
