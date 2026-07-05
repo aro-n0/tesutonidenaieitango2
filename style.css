@@ -1,4 +1,6 @@
 .hidden {
     visibility: hidden;
 }
-h1{font-size: 80px;}
+h1{font-size: 110px;
+  font-argin: center
+  }
