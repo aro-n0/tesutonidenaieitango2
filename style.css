@@ -6,13 +6,11 @@ h1{font-size: 115px;
    margin-bottom: 100px;
   }
 h3{font-size: 30px;
-   text-align: center;
 }
 p1{font-size: 20px;
-   text-align: center;
 }
 h3{font-size: 30px;
    margin-top: 120px;
    margin-bottom: 50px;
-   text-align: center
   }
+body{text-align: center;}
