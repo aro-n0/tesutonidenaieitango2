@@ -6,7 +6,8 @@ h1{font-size: 100px;
   }
 
 .p0{font-size:50px;
-    margin: -100px outo 150px outo;
+    margin-top: -100px;
+    margin-bottom: 100px;
    }
 
 h2{font-size: 30px;
