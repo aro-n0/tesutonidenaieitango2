@@ -3,35 +3,32 @@
 
 h1{font-size: 100px;
    margin-top: 230px;
-   font-family: "Rampart One",sans-serif;
+   font-family: "Kaisei Decol",sans-serif;
   }
 
 .p0{font-size:50px;
     margin-top: -50px;
     margin-bottom: 100px;
-    font-family: "Shippori Mincho",sans-serif;
    }
 
 h2{font-size: 30px;
-   font-family: "Shippori Mincho",sans-serif;
 }
 
 .p1{font-size: 20px;
-    font-family: "Shippori Mincho",sans-serif;
 }
 
 h3{font-size: 30px;
    margin-top: 120px;
    margin-bottom: 50px;
-   font-family: "Shippori Mincho",sans-serif;
   }
 
 .p2{width: 380px;
    margin: 0 auto;
    margin-bottom:100px;
     font-size: 20px;
-    font-family: "Shippori Mincho",sans-serif;
 }
 
-body{text-align: center;}
+body{text-align: center;
+    font-family: "Shippori Mincho",sans-serif;
+    }
 
