@@ -32,3 +32,10 @@ body{text-align: center;
     font-family: "Klee One",sans-serif;
     }
 
+.history{
+    width: 500px;
+    height: 180px;
+    overflow-y: auto;
+    border: 2px solid black;
+    padding: 10px;
+}
