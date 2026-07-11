@@ -12,6 +12,9 @@ h1{font-size: 100px;
    }
 
 h2{font-size: 30px;
+   display: inline-block;
+   border-bottom: 2px solid black;
+   padding-bottom: 5px;
 }
 
 .p1{font-size: 20px;
