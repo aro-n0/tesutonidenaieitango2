@@ -31,6 +31,10 @@ h3{font-size: 30px;
     font-size: 20px;
 }
 
+.main-words{font-size: 60px;
+            margin: 50px auto;
+           }
+
 body{text-align: center;
     font-family: "Klee One",sans-serif;
     }
