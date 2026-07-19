@@ -38,12 +38,13 @@ h3{font-size: 30px;
         }
 
 .sound{font-size: 12px;
-      margin-top: -50px;
+      margin-top: -100px;
       }
 
 .details{width: 380px;
-   margin: 0 auto;
-    font-size: 20px;}
+         margin: 0 auto;
+         margin-bottom: 100px;
+         font-size: 20px;}
 
 body{text-align: center;
     font-family: "Klee One",sans-serif;
