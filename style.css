@@ -34,6 +34,9 @@ h3{font-size: 30px;
 .english-word{font-size: 100px;
            }
 
+.meaning{font-size:75px;
+        }
+
 body{text-align: center;
     font-family: "Klee One",sans-serif;
     }
@@ -51,6 +54,8 @@ body{text-align: center;
 button{
         cursor: pointer;
         transition: 0.2s;
+        font-size: 20px;
+    　　 padding: 12px 24px;
 }
 button:hover{
         transform: scale(1.05);
