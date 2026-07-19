@@ -37,6 +37,14 @@ h3{font-size: 30px;
 .meaning{font-size:50px;
         }
 
+.sound{font-size: 12px;
+      margin-top: -50px;
+      }
+
+.details{width: 380px;
+   margin: 0 auto;
+    font-size: 20px;}
+
 body{text-align: center;
     font-family: "Klee One",sans-serif;
     }
