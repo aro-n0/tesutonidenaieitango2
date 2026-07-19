@@ -37,12 +37,13 @@ h3{font-size: 30px;
 .meaning{font-size:50px;
         }
 
-.sound{font-size: 12px;
+.sound{font-size: 20px;
       margin-top: -100px;
       }
 
 .details{width: 380px;
          margin: 0 auto;
+         margin-top: 50px;
          margin-bottom: 100px;
          font-size: 20px;}
 
