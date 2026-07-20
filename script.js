@@ -1,6 +1,6 @@
 console.log("ここ読み込まれてる");
 
-function showMeaning() {
-    const word = document.getElementById("word");
+function showMeaning(button) {
+    const word = button.previousElementSibling;
     word.classList.remove("hidden");
 }
